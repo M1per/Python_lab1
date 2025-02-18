@@ -126,7 +126,8 @@ my_favorite_movies = 'Терминатор, Пятый элемент, Ават�
 
 *Создал словарь цен на продукты:*
 
-![10](https://github.com/user-attachments/assets/e3574821-8247-4db7-97a6-3a22e88ca523)
+![изображение](https://github.com/user-attachments/assets/78772736-d5b6-460f-aafc-ef4f73ea7ad4)
+
 
 
 
