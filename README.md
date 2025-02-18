@@ -268,3 +268,5 @@ my_favorite_movies = 'Терминатор, Пятый элемент, Ават�
   ```bash
   git push --tags
   ```
+  Ссылки на источники:
+  https://training.github.com/downloads/ru/github-git-cheat-sheet/
